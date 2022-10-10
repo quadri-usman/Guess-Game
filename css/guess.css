@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background-image: url("/Bora\ Bora.jpg");
+  background-image: url("Bora\ Bora.jpg");
   font-family: sans-serif;
   padding: 0 2rem;
 }
