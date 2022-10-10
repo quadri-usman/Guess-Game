@@ -8,9 +8,9 @@ html {
   font-size: 10px;
 }
 
-body {  
-  background-image: url("https://i.ibb.co/mJxKSGp/BoraBora.png");
+body {    
   background-image: url("BoraBora.jpg");
+  background-image: url("https://i.ibb.co/mJxKSGp/BoraBora.png");
   font-family: sans-serif;
   padding: 0 2rem;
 }
